@@ -1,6 +1,7 @@
-## Hi there! I'm Victoria Maria!
+## Hi there! I'm Victoria Maria.
 
-<!--
+Administrative technician | Studying digital design at the Federal University of Ceará | Java script specialist
+
 **victoria-pinheiro/victoria-pinheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
